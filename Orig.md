@@ -15,11 +15,13 @@ Why.1.sec=WHEREAS the Company desires to retain Contractor as an independent con
 
 Why.2.sec=WHEREAS Contractor represents and warrants that Contractor possesses the qualifications and skills necessary to perform the services set forth in this Agreement;
 
+Why.=[G/Z/paras/s2]
+
 /UseAgtFrame=NOW, THEREFORE, in consideration of covenants and agreements contained herein, the Parties agree as follows:
 
 1.Ti=Definitions
 
-1.1.sec=The following terms beginning with a capital letter used in this Agreement will have the meaning indicated below:
+1.1.0.sec=The following terms beginning with a capital letter used in this Agreement will have the meaning indicated below:
 
 1.1.1.sec=“Confidential Information” means information that the Company or any Company affiliate regard and treat as confidential; is not known or accessible to competitors or other third persons not having a legitimate need to know; has value to the Company or any Company affiliate due to the confidentiality thereof; and if disclosed, could result in substantial competitive or business disadvantage. Such information includes, without limitation, (a) trade secrets, any product specifications, data, know-how, formulae, compositions, processes, designs, sketches, photographs, graphs, drawings, samples, inventions and ideas, past, current and planned research and development, current and planned manufacturing and distribution methods and processes, customer lists, current and anticipated customer requirements, price lists, market studies, business plans, computer software and programs (including object code and source code), database technologies, systems, structures, architectures processes, improvements, devices, discoveries, concepts, methods, and information of the Company or any Company affiliate; (b) all information concerning the business and affairs of the Company or any Company affiliate (which includes financial statements, financial projections and budgets, historical and projected sales, capital spending budgets and plans, the names and backgrounds of key personnel, contractors, agents, suppliers and potential suppliers, personnel training and techniques and materials, and purchasing methods and techniques), however documented; and (c) notes, analysis, compilations, studies, summaries and other material prepared by or for the Company or Company affiliate containing or based, in whole or in part, upon any information included in the foregoing; including not only information belonging to the Company which existed before the date of this Agreement, but also information developed by Contractor for the Company or its employees during the Term and thereafter.
 
@@ -29,9 +31,13 @@ Why.2.sec=WHEREAS Contractor represents and warrants that Contractor possesses t
 
 1.1.4.sec=“Moral Rights” means any rights to claim authorship of an Invention to object to or prevent the modification of any Invention, or to withdraw from circulation or control the publication or distribution of any Invention, and any similar right, existing under judicial or statutory law of any country in the world, or under any treaty, regardless of whether or not such right is denominated or generally referred to as a “moral right”.
 
+1.1.=[G/Z/ol-none/s4]
+
 1.2.sec=The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.
 
 1.3.sec=Except where the context specifically requires otherwise, words importing one gender shall be treated as importing any gender, words importing individuals shall be treated as importing legal entities and vice versa, words importing the singular shall be treated as importing the plural and vice versa, and words importing the whole shall be treated as including a reference to any part thereof.
+
+1.=[G/Z/ol/s3]
 
 2.Ti=Scope; Services; Independent Contractor Status; Duties
 
@@ -53,6 +59,8 @@ LawNote=Optional
 
 2.8.sec=Contractor agrees that Contractor will, from time-to-time during the term of this Agreement, keep the Company informed as to Contractor’s progress in performing the Services hereunder and that Contractor will, as requested by the Company, prepare written reports with respect thereto. The Parties understand that the time required in the preparation of such written reports shall be considered time devoted to the performance of Contractor’s Services.
 
+2.=[G/Z/ol/s8]
+
 3.Ti=Fees
 
 3.1.sec=As consideration for the Services to be provided by Contractor, the Company will compensate Contractor as described in Schedule 2 hereof.
@@ -67,9 +75,11 @@ LawNote=Optional
 
 3.6.sec=Contractor shall be responsible for the payment of all taxes on amounts received from the Company for the Services; provided that the Company may apply on Contractor’s compensation any applicable withholding tax.
 
+3.=[G/Z/ol/s6]
+
 4.Ti=Term
 
-4.1.sec=The term of this Agreement (the “Term”) shall commence on the date set forth above and shall be of an indefinite duration until its termination according to the provisions of clause 9.1 hereof.
+4.sec=The term of this Agreement (the “Term”) shall commence on the date set forth above and shall be of an indefinite duration until its termination according to the provisions of clause 9.1 hereof.
 
 5.Ti=Representations and Warranties
 
@@ -83,6 +93,8 @@ LawNote=Optional
 
 5.5.sec=Contractor represents and warrants to the Company that Contractor, in connection with performing the Services, as well as the use of the Services by the Company or its customers, representatives, distributors or dealers, will not infringe any patent, copyright, trademark, trade secret or other proprietary (including intellectual property) right of any third party. Contractor further represents and warrants to the Company that Contractor will not use any trade secrets or confidential or proprietary information owned by any third party in performing the Services as well as that neither Contractor nor any other company or individual performing Services pursuant to this Agreement is under any obligation to assign or give any work done under this Agreement to any third party. Contractor agrees to indemnify and hold the Company harmless against any liability, loss, cost, damage, claims, demands or expenses (including reasonable attorneys’ fees) of the Company or its customers, representatives, distributors or dealers arising out of any infringement or claim of infringement with respect to any materials or Services provided by Contractor.
 
+5.=[G/Z/ol/s5]
+
 6.Ti=Confidentiality – Non-Disclosure
 
 6.1.sec=During the Term and after the termination of this Agreement for any reason Contractor (a) shall keep strictly confidential, and use solely for purposes of performing the Services, Confidential Information or any intellectual property disclosed to Contractor by the Company or any of the Company’s affiliates or their customers and suppliers during the Term, and (b) shall not, directly or indirectly, disclose to any unauthorized person or use for Contractor’s own purposes any such Confidential Information without the prior written consent of the Company.
@@ -92,6 +104,8 @@ LawNote=Optional
 6.3.sec=In the event that Contractor is requested or required to disclose any Confidential Information pursuant to point (ii) of clause 6.2 above, Contractor, to the extent not prohibited by such process, law or exchange, shall give the Company written notice of the Confidential Information to be so disclosed as far in advance of its disclosure as is reasonably practicable, shall cooperate with the Company in any efforts to protect the Confidential Information from disclosure (including efforts to secure a judicial order to such effect), and shall limit his disclosure of such Confidential Information to the minimum disclosure required by such process, law or exchange.
 
 6.4.sec=Contractor acknowledges that all documents and other property including or reflecting Confidential Information furnished to Contractor by the Company or any Company affiliate or otherwise acquired or developed by the Company or any Company affiliate or acquired, developed or known by Contractor by reason of the performance of his duties for, or his association with, the Company or any Company affiliate shall at all times be the property of the Company. Contractor shall take all reasonable steps to safeguard Confidential Information and protect it against disclosure, misuse, loss or theft. 
+
+6.=[G/Z/ol/s4]
 
 7.Ti=Intellectual Property
 
@@ -111,7 +125,7 @@ LawNote=Optional
 
 7.8.sec=The above under clauses 7.1 to 7.7 hereof apply without any exception to any work and services, similar to the Services and any work to be provided by Contractor to the Company hereunder, which Contractor has provided to the Company prior to the conclusion and the date of signing of this Agreement by the Parties.
 
-7.9.sec=Intellectual Property Indemnification
+7.9.0.sec=Intellectual Property Indemnification
 
 7.9.1.sec=The following terms apply to any infringement or claim or infringement of any patent, trademark, copyright, trade secret or other proprietary interest based on the licensing, use, or sale of any software, software products and/or Services furnished to the Company under this Agreement or in contemplation hereof. Subject to the limitations contained in this Agreement, Contractor shall indemnify the Company for any loss, damage, expense or liability, including costs and reasonable attorney fees that may result by reason of any such infringement or claim, except where such infringement or claim arises solely from Contractor’s adherence to the Company’s written instructions or directions which involve the use of merchandise and items other than (a) commercial merchandise which is available on the open market or is the same as such merchandise, or (b) items of Contractor’s origin, design or selection; and the Company shall so indemnify Contractor in such excepted cases. Each Party shall defend or settle, at its own expense, any action or suit against the other for which it is responsible hereunder. Each Party shall notify the other Party promptly of any claim of infringement for which the other Party is responsible, and shall cooperate with the other in every reasonable way to facilitate the defence of any such claim.
 
@@ -119,9 +133,13 @@ LawNote=Optional
 
 7.9.3.sec=In no event shall the Company be liable to Contractor for any charges after the date that the Company no longer uses the item because of actual or claimed infringement.
 
+7.9.=[G/Z/ol/s3]
+
+7.=[G/Z/ol/s9]
+
 8.Ti=Indemnification
 
-8.1.sec=Contractor agrees to indemnify and hold harmless the Company and its officers, directors, employees and agents, from and against all claims, liabilities, losses, costs, damages, judgments, penalties, fines, attorneys’ fees, court costs and other legal expenses, insurance deductibles and all other expenses arising out of or relating to, directly or indirectly, from:
+8.1.0.sec=Contractor agrees to indemnify and hold harmless the Company and its officers, directors, employees and agents, from and against all claims, liabilities, losses, costs, damages, judgments, penalties, fines, attorneys’ fees, court costs and other legal expenses, insurance deductibles and all other expenses arising out of or relating to, directly or indirectly, from:
 
 8.1.1.sec=The negligent, grossly negligent, or intentional act or omission of Contractor or its directors, officers, employees, agents or contractors;
 
@@ -129,17 +147,23 @@ LawNote=Optional
 
 8.1.3.sec=Any act or omission of Contractor in connection with the Services.
 
+8.1.=[G/Z/ol/s3]
+
 8.2.sec=The Company will promptly notify Contractor of any claim for indemnification.
+
+8.=[G/Z/ol/s2]
 
 9.Ti=Termination; Survival
 
-9.1.Ti=Termination.
+9.1.Ti=Termination
 
 9.1.1.sec=This Agreement may be terminated by either Party immediately upon written notice to the other Party for important cause, including, without limitation, upon breach by the other Party of any material term or condition of this Agreement and, where such breach is remediable, such breach having remained uncorrected for fifteen (15) days following receipt of written notice of such breach.
 
 9.1.2.sec=Each Party may terminate this Agreement at any time, without cause, upon [] ([]) days’ prior notification to the other Party.
 
-9.2.Ti=Surviving Obligations. 
+9.1.=[G/Z/ol/s2]
+
+9.2.Ti=Surviving Obligations
 
 9.2.0.sec=Upon termination of this Agreement for any reason all rights and duties of the Parties toward each other shall cease, except that:
 
@@ -147,41 +171,52 @@ LawNote=Optional
 
 9.2.2.sec=Clauses 6, 7, 8, 9.2, 10.4, 1.1 and 10.8 hereof shall survive termination of this Agreement.
 
+9.2.=[G/Z/ol/s2]
+
+9.=[G/Z/ol/2]
+
 10.Ti=General Provisions
 
-10.1.Ti=Entire Agreement. 
+10.1.Ti=Entire Agreement 
 
 10.1.sec=This Agreement constitutes the entire agreement and understanding between the Parties, and supersedes and preempts any prior representations, understandings or other agreements of the Parties, written or oral written or oral, which may have related to the subject matter hereof in any way.
 
-10.2.Ti=Severability. 
+10.2.Ti=Severability
 
 10.2.sec=If any provision of this Agreement is invalid or unenforceable, the invalidity or unenforceability shall not affect any other provision hereof and this Agreement shall be construed in all respects as if the invalid or unenforceable provision had been omitted.
 
-10.3.Ti=Counterparts. 
+10.3.Ti=Counterparts
 
 10.3.sec=This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which, taken together, shall constitute one and the same agreement.
 
-10.4.Ti=Successors and Assigns. 
+10.4.Ti=Successors and Assigns
 
 10.4.sec=This Agreement shall bind and inure to the benefit of and be enforceable by Contractor, the Company and their respective successors and assigns; provided that the rights and obligations of Contractor under this Agreement are personal to Contractor and may not be assigned, novated, subcontracted or transferred without the prior written consent of the Company.
 
-10.5.Ti=Amendments and Waivers. 
+10.5.Ti=Amendments and Waivers 
 
 10.5.sec=This Agreement may only be amended in a writing signed by Contractor (or a duly authorized officer thereof) and a duly authorized officer of the Company. No waiver of any term or provision of this Agreement will be effective unless made in writing. Any written amendment or waiver will be effective only in the instance given and then only with respect to the specific term or provision (or portion thereof) of this Agreement to which it expressly relates, and will not be deemed or construed to constitute a waiver of any other term or provision (or portion thereof) waived in any other instance.
 
-10.6.Ti=No Waiver of Rights. 
+10.6.Ti=No Waiver of Rights
 
 10.6.sec=A failure or delay in exercising any right, power or privilege in respect of this Agreement will not be presumed to operate as a waiver, and a single or partial exercise of any right, power or privilege will not be presumed to preclude any subsequent or further exercise, of that right, power or privilege or the exercise of any other right, power or privilege.
 
-10.7.Ti=Notices. 
+10.7.Ti=Notices
 
 10.7.sec=All notices permitted or required under this Agreement shall be in writing and shall be delivered in person or mailed by registered or certified mail, postage prepaid, to the address of the Party specified in this Agreement or such other address as either Party may specify in writing. Such notice shall be deemed to have been given upon receipt.
 
-10.8.Ti=Governing Law; Dispute Resolution.
+10.8.Ti=Governing Law; Dispute Resolution
 
 10.8.sec=This Agreement shall be governed by and construed in accordance with the laws of Greece. Any disputes arising hereunder, including disputes arising from or related to a termination of this Agreement, and any disputes or claims arising from the subject matter of this Agreement shall be subject to the exclusive jurisdiction of the competent courts of Athens, Greece.
 
-IN WITNESS WHEREOF, the Parties have executed this Agreement in two (2) originals, one being delivered to each Party, as of the date first written above.
+10.=[G/Z/ol/8]
+
+=[G/Agt-Form-CmA/US/Frame/2Parties/0.md]
+
+=[G/Z/ol/10]
+
+
+/=IN WITNESS WHEREOF, the Parties have executed this Agreement in two (2) originals, one being delivered to each Party, as of the date first written above.
 
 THE PARTIES
 
@@ -225,29 +260,31 @@ Name: []
 
  
 
-Schedule 1Services
+Annex.1.Ti=Schedule 1 Services
 
+Annex.1.0.sec=Description of Services
 
+Annex.1.1.Scope of Services:
 
-1.Description of Services
+Annex.1.1.1.sec=[]
 
-1.1.Scope of Services:
+Annex.1.1.2.sec=[]
 
-1.1.1.[]
+Annex.1.1.=[G/Z/ol/s2]
 
-1.1.2.[]
+Annex.1.2.sec=[Position: []]
 
-1.2.[Position: []]
+Annex.1.=[G/Z/ol/s2]
 
+Annex.2.Ti=Schedule 2 Fees
 
+Annex.2.0.sec=Contractor shall be compensated for Services performed according to this Agreement as follows:
 
- 
+Annex.2.1.sec=[]
 
-Schedule 2Fees
+Annex.2.2.sec=[]
 
+Annex.2.=[G/Z/ol/s2]
 
-
-Contractor shall be compensated for Services performed according to this Agreement as follows:
-
-[]
+Annex.=[G/Z/ol/2]
 
