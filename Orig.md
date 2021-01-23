@@ -1,0 +1,248 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+
+
+This Independent Contractor Agreement (the “Agreement”) is made as of [] by and between the following contracting parties (each a “Party” and together the “Parties”):
+
+A)[], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [] (hereinafter referred to as the “Company”) and
+
+B)[if natural person] [], father’s name: [], mother’s name: [], date of birth: [], an individual residing at [], Greece, with ID nr. [], Tax Identification Number [],
+
+[if legal person] [], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [],
+
+(hereinafter referred to as “Contractor”).
+
+WHEREAS the Company desires to retain Contractor as an independent contractor to perform certain services for the Company and Contractor is willing to perform such services;
+
+WHEREAS Contractor represents and warrants that Contractor possesses the qualifications and skills necessary to perform the services set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of covenants and agreements contained herein, the Parties agree as follows:
+
+1.Ti=Definitions
+
+1.1.sec=The following terms beginning with a capital letter used in this Agreement will have the meaning indicated below:
+
+“Confidential Information” means information that the Company or any Company affiliate regard and treat as confidential; is not known or accessible to competitors or other third persons not having a legitimate need to know; has value to the Company or any Company affiliate due to the confidentiality thereof; and if disclosed, could result in substantial competitive or business disadvantage. Such information includes, without limitation, (a) trade secrets, any product specifications, data, know-how, formulae, compositions, processes, designs, sketches, photographs, graphs, drawings, samples, inventions and ideas, past, current and planned research and development, current and planned manufacturing and distribution methods and processes, customer lists, current and anticipated customer requirements, price lists, market studies, business plans, computer software and programs (including object code and source code), database technologies, systems, structures, architectures processes, improvements, devices, discoveries, concepts, methods, and information of the Company or any Company affiliate; (b) all information concerning the business and affairs of the Company or any Company affiliate (which includes financial statements, financial projections and budgets, historical and projected sales, capital spending budgets and plans, the names and backgrounds of key personnel, contractors, agents, suppliers and potential suppliers, personnel training and techniques and materials, and purchasing methods and techniques), however documented; and (c) notes, analysis, compilations, studies, summaries and other material prepared by or for the Company or Company affiliate containing or based, in whole or in part, upon any information included in the foregoing; including not only information belonging to the Company which existed before the date of this Agreement, but also information developed by Contractor for the Company or its employees during the Term and thereafter.
+
+“Inventions” means discoveries, inventions, works of authorship, concepts, ideas, processes, methods, formulas, compositions, techniques, programs, software, designs, improvements and innovations or “know-how” related thereto (including all data and records pertaining thereto), whether or not patentable, copyrightable, registrable as a trademark, recorded in any medium or reduced to writing.
+
+“Intellectual Property Rights” means intellectual property rights and any and all improvements thereof, namely any rights direct or indirect, exclusive or not exclusive, proprietary or contractual over creations of the mind and/or any rights (or/and rights of expectation) which are protected under industrial property law, including namely, indicatively, literary and other works, and symbols, software, source codes, websites, databases, domain names, utility models, images, and designs, inventions (patents), registered trademarks, registered designs, applications for any of the foregoing, rights of expectation on trademarks or patents,  names (including trade and business names), unregistered trademarks, logos, know-how, trade secrets, copyrights (including copyright over software, hardware, processes or any other part of the business or products of the Company), rights in designs, rights under licenses and consents in relation to any such rights, rights of the same or similar effect or nature, together with all goodwill attaching or relating thereto, in any part of the world (whether or not capable of protection by registration.
+
+“Moral Rights” means any rights to claim authorship of an Invention to object to or prevent the modification of any Invention, or to withdraw from circulation or control the publication or distribution of any Invention, and any similar right, existing under judicial or statutory law of any country in the world, or under any treaty, regardless of whether or not such right is denominated or generally referred to as a “moral right”.
+
+1.2.sec=The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.
+
+1.3.sec=Except where the context specifically requires otherwise, words importing one gender shall be treated as importing any gender, words importing individuals shall be treated as importing legal entities and vice versa, words importing the singular shall be treated as importing the plural and vice versa, and words importing the whole shall be treated as including a reference to any part thereof.
+
+2.Ti=Scope; Services; Independent Contractor Status; Duties
+
+2.1.sec=During the term of this Agreement in consideration of the fees described in clause 3 hereof, Contractor will provide services (the “Services”) to the Company as set forth in Schedule 1 hereof.
+
+2.2.sec=It is the Parties’ intent that Contractor at all times, and with respect to all Services covered by this Agreement function as and remain an independent contractor, and not an employee or officer of the Company and neither Party shall represent to third parties that Contractor is an employee or officer of the Company. Nothing contained in this Agreement shall be construed to create the relationship of employer and employee, principal and agent, partnership or joint venture.
+
+2.3.sec=Contractor shall have no authority to act as agent for, or on behalf of, the Company, or to represent the Company, or bind the Company in any manner.
+
+2.4.sec=Contractor shall not be entitled to employee’s compensation, retirement, insurance or other benefits afforded to employees of Company.
+
+2.5.sec=Contractor shall retain the right to perform services for others during the term of this Agreement.
+
+2.6.sec=[Contractor will determine the method, details, and means of performing the Services. The Company shall have no right to and shall not control the manner or determine the method of accomplishment of the Services, though it may define the Services to be performed. Such Services may be amended, from time-to-time, by the Parties by written agreement, signed by Contractor and the Company.]
+
+2.7.sec=Contractor will, in the performance of Contractor’s duties hereunder, comply with all policies and procedures of the Company that are applicable to independent contractors and consultants, as communicated to Contractor from time to time. The Company reserves the right to change such policies and procedures on a prospective basis, at any time, effective upon reasonable notice to Contractor.
+
+2.8.sec=Contractor agrees that Contractor will, from time-to-time during the term of this Agreement, keep the Company informed as to Contractor’s progress in performing the Services hereunder and that Contractor will, as requested by the Company, prepare written reports with respect thereto. The Parties understand that the time required in the preparation of such written reports shall be considered time devoted to the performance of Contractor’s Services.
+
+3.Ti=Fees
+
+3.1.sec=As consideration for the Services to be provided by Contractor, the Company will compensate Contractor as described in Schedule 2 hereof.
+
+3.2.sec=The Company will pay Contractor the Contractor’s [annual] compensation in monthly installments of €[].
+
+3.3.sec=Compensation for Contractor’s Services shall be conditioned on the actual performance by Contractor of the Services and the Company’s receipt and approval of accurate and detailed monthly invoices, including records of time Services performed, from Contractor. Contractor shall issue and submit to the Company such monthly invoices for all Services performed by Contractor during the applicable month within the first five (5) calendar days of the following month.
+
+3.4.sec=The Company shall pay Contractor’s invoices within [] ([]) days from receipt.
+
+3.5.sec=The Company shall reimburse (or procure the reimbursement of) all reasonable actual out-of-pocket business costs and expenses (including travel and accommodation expenses) wholly, properly and necessarily incurred by Contractor in connection with the performance of Contractor’s duties and obligations provided for in this Agreement. Reimbursement will be paid upon prompt presentation of VAT invoices/receipts and such other appropriate evidence of payment and supporting information as the Company may from time to time require in accordance with the Company’s customary policies and procedures to which Contractor shall abide, as such policies will be communicated to Contractor from time to time. The Company reserves the right to change such policies and procedures on a prospective basis, at any time, effective upon reasonable notice to Contractor.
+
+3.6.sec=Contractor shall be responsible for the payment of all taxes on amounts received from the Company for the Services; provided that the Company may apply on Contractor’s compensation any applicable withholding tax.
+
+4.Ti=Term
+
+4.1.sec=The term of this Agreement (the “Term”) shall commence on the date set forth above and shall be of an indefinite duration until its termination according to the provisions of clause 9.1 hereof.
+
+5.Ti=Representations and Warranties
+
+5.1.sec=The Company and Contractor respectively represents and warrants to each other that each respectively is fully authorized and empowered to enter into the Agreement and that their entering into the Agreement and to each Party’s knowledge the performance of their respective obligations under the Agreement will not violate any agreement between the Company or Contractor respectively and any other person, firm or organization or any law or governmental regulation.
+
+5.2.sec=Contractor represents and warrants to the Company that all Services, work and deliverables to be performed hereunder shall be performed by qualified personnel in a professional and workmanlike manner, in accordance with the highest industry standards. All services shall be rendered to the good faith satisfaction of the Company.
+
+5.3.sec=Contractor represents and warrants to the Company that the Company will receive good and valid title to all deliverables delivered by Contractor to the Company under this Agreement, free and clear of all encumbrances and liens of any type.
+
+5.4.sec=Contractor represents and warrants that Contractor has no outstanding agreement or obligation that is in conflict with any provision of this Agreement, or that would preclude Contractor from complying with the provisions hereof. Contractor further represents and warrants that Contractor will not enter into any such conflicting Agreement during the term of this Agreement.
+
+5.5.sec=Contractor represents and warrants to the Company that Contractor, in connection with performing the Services, as well as the use of the Services by the Company or its customers, representatives, distributors or dealers, will not infringe any patent, copyright, trademark, trade secret or other proprietary (including intellectual property) right of any third party. Contractor further represents and warrants to the Company that Contractor will not use any trade secrets or confidential or proprietary information owned by any third party in performing the Services as well as that neither Contractor nor any other company or individual performing Services pursuant to this Agreement is under any obligation to assign or give any work done under this Agreement to any third party. Contractor agrees to indemnify and hold the Company harmless against any liability, loss, cost, damage, claims, demands or expenses (including reasonable attorneys’ fees) of the Company or its customers, representatives, distributors or dealers arising out of any infringement or claim of infringement with respect to any materials or Services provided by Contractor.
+
+6.Ti=Confidentiality – Non-Disclosure
+
+6.1.sec=During the Term and after the termination of this Agreement for any reason Contractor (a) shall keep strictly confidential, and use solely for purposes of performing the Services, Confidential Information or any intellectual property disclosed to Contractor by the Company or any of the Company’s affiliates or their customers and suppliers during the Term, and (b) shall not, directly or indirectly, disclose to any unauthorized person or use for Contractor’s own purposes any such Confidential Information without the prior written consent of the Company.
+
+6.2.sec=Notwithstanding clause 6.1 above, Contractor will not be required to maintain as confidential any Confidential Information – and to the extent that such Confidential Information – (i) becomes or is generally known to the public and available for use by the public other than as a result of Contractor’s unauthorized acts or omissions in breach of this Agreement; or (ii) is required to be disclosed by judicial process, any Governmental Authority, or under any Law or other legal requirement, including any securities exchange on which the securities of the Company or any of the Company affiliates are listed; and provided, further, that Contractor may disclose Confidential Information (iii) to Contractor’s counsel, accountants and agents on a need-to-know basis (provided that any such person shall be informed of the confidential nature of such information and directed not to disclose or make public such Confidential Information) and (iv) in any action, suit or proceeding between the Parties.
+
+6.3.sec=In the event that Contractor is requested or required to disclose any Confidential Information pursuant to point (ii) of clause 6.2 above, Contractor, to the extent not prohibited by such process, law or exchange, shall give the Company written notice of the Confidential Information to be so disclosed as far in advance of its disclosure as is reasonably practicable, shall cooperate with the Company in any efforts to protect the Confidential Information from disclosure (including efforts to secure a judicial order to such effect), and shall limit his disclosure of such Confidential Information to the minimum disclosure required by such process, law or exchange.
+
+6.4.sec=Contractor acknowledges that all documents and other property including or reflecting Confidential Information furnished to Contractor by the Company or any Company affiliate or otherwise acquired or developed by the Company or any Company affiliate or acquired, developed or known by Contractor by reason of the performance of his duties for, or his association with, the Company or any Company affiliate shall at all times be the property of the Company. Contractor shall take all reasonable steps to safeguard Confidential Information and protect it against disclosure, misuse, loss or theft. 
+
+7.Ti=Intellectual Property
+
+7.1.sec=Contractor agrees that any and all Inventions conceived, originated, made or discovered by Contractor, solely or in collaboration with others, during the Term which relate in any manner to the business of the Company that Contractor may be directed to undertake, investigate or experiment with, or which Contractor may become associated with as a result of work, investigation or experimentation in the line of business of Company in performing the Services hereunder, are the sole property of the Company. Contractor further agrees to assign (or cause to be assigned) and does hereby assign fully to the Company all such Inventions and any copyrights, patents, mask work rights or other intellectual property rights relating thereto.
+
+7.2.sec=Whenever an Invention is made (meaning the conception of the first actual or constructive reduction to practice of such Invention) by Contractor, either solely or in collaboration with others, including employees of Contractor under or relating to this Agreement, Contractor shall promptly give the Company written notice thereof and shall furnish the Company with complete information thereon including, as a minimum, (a) a complete written disclosure of each such Invention, and (b) information concerning the date and identity of any public use, sale or publication of such invention made by or known to Contractor or of any contemplated publication by Contractor.
+
+7.3.sec=Contractor hereby grants, assigns, and conveys to the Company all right, title and interest in and to all Inventions conceived, reduced to practice, authored, developed or delivered by Contractor or its employees, agents, consultants, contractors and representatives either solely or jointly with others, during and in connection with the performance of services under this Agreement with the Company.
+
+7.4.sec=Contractor agrees that it will not seek, and that it will require its employees, agents, consultants, contractors and representatives not to seek patent, copyright, trademark, registered design or other protection for any rights in any such Inventions. Contractor shall have no right to disclose or use any such Inventions for any purpose whatsoever and shall not communicate to any third party the nature of or details relating to such Inventions.
+
+7.5.sec=Contractor agrees that if in the course of performing the Services, Contractor incorporates into any Invention developed hereunder any invention, improvement, development, concept, discovery or other proprietary information owned by Contractor or in which Contractor has an interest, the Company is hereby granted and shall have a nonexclusive, royalty-free, perpetual, irrevocable, worldwide license to make, have made, modify, use and sell such item as part of or in connection with such Invention.
+
+7.6.sec=To the utmost extent permitted by law Contractor also hereby forever waives and agrees never to assert any and all Moral Rights Contractor may have in or with respect to any Invention, even after termination of his work on behalf of the Company. To the extent Contractor hereby retains any such Moral Rights under applicable law, Contractor hereby ratifies and consents to, any action that may be taken with respect to such Moral Rights by or authorized by the Company, and Contractor agrees not to assert any Moral Rights with respect thereto. Contractor will confirm any such ratifications, consents and agreements from time to time as requested by the Company. Contractor acknowledges that the aforementioned waivers, ratifications, consents and agreements are reasonable, given that the creation/execution of any Inventions to which such Moral Rights relate falls into the scope of this Agreement, the overall employment relationship between the Parties and the obligations undertaken by Contractor hereunder, as well as that the above mentioned Compensation of Contractor constitutes reasonable consideration for such waivers, ratifications, consents and agreements.
+
+7.7.sec=Contractor agrees that it shall do and that it shall require its employees, agents, consultants, contractors and representatives to do, at the Company’s expense, all things and execute all documents as the Company may reasonably require to vest in the Company or its nominees the rights referred to herein and to secure for the Company or its nominees all patent, trademark, or copyright protection in any and all countries.
+
+7.8.sec=The above under clauses 7.1 to 7.7 hereof apply without any exception to any work and services, similar to the Services and any work to be provided by Contractor to the Company hereunder, which Contractor has provided to the Company prior to the conclusion and the date of signing of this Agreement by the Parties.
+
+7.9.sec=Intellectual Property Indemnification
+
+7.9.1.sec=The following terms apply to any infringement or claim or infringement of any patent, trademark, copyright, trade secret or other proprietary interest based on the licensing, use, or sale of any software, software products and/or Services furnished to the Company under this Agreement or in contemplation hereof. Subject to the limitations contained in this Agreement, Contractor shall indemnify the Company for any loss, damage, expense or liability, including costs and reasonable attorney fees that may result by reason of any such infringement or claim, except where such infringement or claim arises solely from Contractor’s adherence to the Company’s written instructions or directions which involve the use of merchandise and items other than (a) commercial merchandise which is available on the open market or is the same as such merchandise, or (b) items of Contractor’s origin, design or selection; and the Company shall so indemnify Contractor in such excepted cases. Each Party shall defend or settle, at its own expense, any action or suit against the other for which it is responsible hereunder. Each Party shall notify the other Party promptly of any claim of infringement for which the other Party is responsible, and shall cooperate with the other in every reasonable way to facilitate the defence of any such claim.
+
+7.9.2.sec=In addition, in the event an injunction or order shall be obtained against the Company’s use of any item by reason of any such infringement allegation, or if the item is likely to become the subject of a claim of infringement or violation of any existing patent, trademark, copyright, trade secret or other proprietary right of a third party, Contractor will, without in any way limiting the foregoing, at Contractor’s expense, either: (i) procure for the Company the right to continue using the item; or (ii) replace or modify the item so that it becomes non-infringing, but only if the modification or replacement does not adversely affect the functional performance or specifications for the item or its use by the Company.
+
+7.9.3.sec=In no event shall the Company be liable to Contractor for any charges after the date that the Company no longer uses the item because of actual or claimed infringement.
+
+8.Ti=Indemnification
+
+8.1.sec=Contractor agrees to indemnify and hold harmless the Company and its officers, directors, employees and agents, from and against all claims, liabilities, losses, costs, damages, judgments, penalties, fines, attorneys’ fees, court costs and other legal expenses, insurance deductibles and all other expenses arising out of or relating to, directly or indirectly, from:
+
+8.1.1.sec=The negligent, grossly negligent, or intentional act or omission of Contractor or its directors, officers, employees, agents or contractors;
+
+8.1.2.sec=Contractor’s failure to perform any of its obligations under this Agreement; and
+
+8.1.3.sec=Any act or omission of Contractor in connection with the Services.
+
+8.2.sec=The Company will promptly notify Contractor of any claim for indemnification.
+
+9.Ti=Termination; Survival
+
+9.1.sec=Termination.
+
+9.1.1.sec=This Agreement may be terminated by either Party immediately upon written notice to the other Party for important cause, including, without limitation, upon breach by the other Party of any material term or condition of this Agreement and, where such breach is remediable, such breach having remained uncorrected for fifteen (15) days following receipt of written notice of such breach.
+
+9.1.2.sec=Each Party may terminate this Agreement at any time, without cause, upon [] ([]) days’ prior notification to the other Party.
+
+9.2.sec=Surviving Obligations. Upon termination of this Agreement for any reason all rights and duties of the Parties toward each other shall cease, except that:
+
+9.2.1.sec=The Company shall be obliged to pay, within thirty (30) days of receipt of Contractor’s invoice, all amounts owing to Contractor for unpaid Services through the termination date; and
+
+9.2.2.sec=Clauses 6, 7, 8, 9.2, 10.4, 1.1 and 10.8 hereof shall survive termination of this Agreement.
+
+10.Ti=General Provisions
+
+10.1.sec=Entire Agreement. 
+
+10.1.1.sec=This Agreement constitutes the entire agreement and understanding between the Parties, and supersedes and preempts any prior representations, understandings or other agreements of the Parties, written or oral written or oral, which may have related to the subject matter hereof in any way.
+
+10.2.sec=Severability. If any provision of this Agreement is invalid or unenforceable, the invalidity or unenforceability shall not affect any other provision hereof and this Agreement shall be construed in all respects as if the invalid or unenforceable provision had been omitted.
+
+10.3.sec=Counterparts. 
+
+10.3.1.sec=This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which, taken together, shall constitute one and the same agreement.
+
+10.4.sec=Successors and Assigns. 
+
+10.4.1.sec=This Agreement shall bind and inure to the benefit of and be enforceable by Contractor, the Company and their respective successors and assigns; provided that the rights and obligations of Contractor under this Agreement are personal to Contractor and may not be assigned, novated, subcontracted or transferred without the prior written consent of the Company.
+
+10.5.sec=Amendments and Waivers. 
+
+10.5.1.sec=This Agreement may only be amended in a writing signed by Contractor (or a duly authorized officer thereof) and a duly authorized officer of the Company. No waiver of any term or provision of this Agreement will be effective unless made in writing. Any written amendment or waiver will be effective only in the instance given and then only with respect to the specific term or provision (or portion thereof) of this Agreement to which it expressly relates, and will not be deemed or construed to constitute a waiver of any other term or provision (or portion thereof) waived in any other instance.
+
+10.6.sec=No Waiver of Rights. 
+
+10.6.1.sec=A failure or delay in exercising any right, power or privilege in respect of this Agreement will not be presumed to operate as a waiver, and a single or partial exercise of any right, power or privilege will not be presumed to preclude any subsequent or further exercise, of that right, power or privilege or the exercise of any other right, power or privilege.
+
+10.7.sec=Notices. 
+
+10.7.1.sec=All notices permitted or required under this Agreement shall be in writing and shall be delivered in person or mailed by registered or certified mail, postage prepaid, to the address of the Party specified in this Agreement or such other address as either Party may specify in writing. Such notice shall be deemed to have been given upon receipt.
+
+10.8.sec=Governing Law; Dispute Resolution.
+
+10.8.1.sec= This Agreement shall be governed by and construed in accordance with the laws of Greece. Any disputes arising hereunder, including disputes arising from or related to a termination of this Agreement, and any disputes or claims arising from the subject matter of this Agreement shall be subject to the exclusive jurisdiction of the competent courts of Athens, Greece.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement in two (2) originals, one being delivered to each Party, as of the date first written above.
+
+THE PARTIES
+
+The Company
+
+For and on behalf of
+
+[]
+
+
+
+
+
+
+
+
+
+By: _______________________
+
+Name: []
+
+Title: []The Contractor
+
+[For and on behalf of]
+
+[]
+
+
+
+
+
+
+
+
+
+By: _______________________
+
+Name: []
+
+[Title: []]
+
+ 
+
+Schedule 1Services
+
+
+
+1.Description of Services
+
+1.1.Scope of Services:
+
+1.1.1.[]
+
+1.1.2.[]
+
+1.2.[Position: []]
+
+
+
+ 
+
+Schedule 2Fees
+
+
+
+Contractor shall be compensated for Services performed according to this Agreement as follows:
+
+[]
+
