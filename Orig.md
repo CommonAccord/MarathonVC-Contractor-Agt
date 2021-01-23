@@ -1,34 +1,33 @@
 INDEPENDENT CONTRACTOR AGREEMENT
 
 
+This.sec=This Independent Contractor Agreement (the “Agreement”) is made as of [] by and between the following contracting parties (each a “Party” and together the “Parties”):
 
-This Independent Contractor Agreement (the “Agreement”) is made as of [] by and between the following contracting parties (each a “Party” and together the “Parties”):
+/UseAgtFrame=A)[], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [] (hereinafter referred to as the “Company”) and
 
-A)[], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [] (hereinafter referred to as the “Company”) and
+OriginalNote=B)[if natural person] [], father’s name: [], mother’s name: [], date of birth: [], an individual residing at [], Greece, with ID nr. [], Tax Identification Number [],
 
-B)[if natural person] [], father’s name: [], mother’s name: [], date of birth: [], an individual residing at [], Greece, with ID nr. [], Tax Identification Number [],
+OriginalNote=[if legal person] [], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [],
 
-[if legal person] [], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [],
+/=(hereinafter referred to as “Contractor”).
 
-(hereinafter referred to as “Contractor”).
+Why.1.sec=WHEREAS the Company desires to retain Contractor as an independent contractor to perform certain services for the Company and Contractor is willing to perform such services;
 
-WHEREAS the Company desires to retain Contractor as an independent contractor to perform certain services for the Company and Contractor is willing to perform such services;
+Why.2.sec=WHEREAS Contractor represents and warrants that Contractor possesses the qualifications and skills necessary to perform the services set forth in this Agreement;
 
-WHEREAS Contractor represents and warrants that Contractor possesses the qualifications and skills necessary to perform the services set forth in this Agreement;
-
-NOW, THEREFORE, in consideration of covenants and agreements contained herein, the Parties agree as follows:
+/UseAgtFrame=NOW, THEREFORE, in consideration of covenants and agreements contained herein, the Parties agree as follows:
 
 1.Ti=Definitions
 
 1.1.sec=The following terms beginning with a capital letter used in this Agreement will have the meaning indicated below:
 
-“Confidential Information” means information that the Company or any Company affiliate regard and treat as confidential; is not known or accessible to competitors or other third persons not having a legitimate need to know; has value to the Company or any Company affiliate due to the confidentiality thereof; and if disclosed, could result in substantial competitive or business disadvantage. Such information includes, without limitation, (a) trade secrets, any product specifications, data, know-how, formulae, compositions, processes, designs, sketches, photographs, graphs, drawings, samples, inventions and ideas, past, current and planned research and development, current and planned manufacturing and distribution methods and processes, customer lists, current and anticipated customer requirements, price lists, market studies, business plans, computer software and programs (including object code and source code), database technologies, systems, structures, architectures processes, improvements, devices, discoveries, concepts, methods, and information of the Company or any Company affiliate; (b) all information concerning the business and affairs of the Company or any Company affiliate (which includes financial statements, financial projections and budgets, historical and projected sales, capital spending budgets and plans, the names and backgrounds of key personnel, contractors, agents, suppliers and potential suppliers, personnel training and techniques and materials, and purchasing methods and techniques), however documented; and (c) notes, analysis, compilations, studies, summaries and other material prepared by or for the Company or Company affiliate containing or based, in whole or in part, upon any information included in the foregoing; including not only information belonging to the Company which existed before the date of this Agreement, but also information developed by Contractor for the Company or its employees during the Term and thereafter.
+1.1.1.sec=“Confidential Information” means information that the Company or any Company affiliate regard and treat as confidential; is not known or accessible to competitors or other third persons not having a legitimate need to know; has value to the Company or any Company affiliate due to the confidentiality thereof; and if disclosed, could result in substantial competitive or business disadvantage. Such information includes, without limitation, (a) trade secrets, any product specifications, data, know-how, formulae, compositions, processes, designs, sketches, photographs, graphs, drawings, samples, inventions and ideas, past, current and planned research and development, current and planned manufacturing and distribution methods and processes, customer lists, current and anticipated customer requirements, price lists, market studies, business plans, computer software and programs (including object code and source code), database technologies, systems, structures, architectures processes, improvements, devices, discoveries, concepts, methods, and information of the Company or any Company affiliate; (b) all information concerning the business and affairs of the Company or any Company affiliate (which includes financial statements, financial projections and budgets, historical and projected sales, capital spending budgets and plans, the names and backgrounds of key personnel, contractors, agents, suppliers and potential suppliers, personnel training and techniques and materials, and purchasing methods and techniques), however documented; and (c) notes, analysis, compilations, studies, summaries and other material prepared by or for the Company or Company affiliate containing or based, in whole or in part, upon any information included in the foregoing; including not only information belonging to the Company which existed before the date of this Agreement, but also information developed by Contractor for the Company or its employees during the Term and thereafter.
 
-“Inventions” means discoveries, inventions, works of authorship, concepts, ideas, processes, methods, formulas, compositions, techniques, programs, software, designs, improvements and innovations or “know-how” related thereto (including all data and records pertaining thereto), whether or not patentable, copyrightable, registrable as a trademark, recorded in any medium or reduced to writing.
+1.1.2.sec=“Inventions” means discoveries, inventions, works of authorship, concepts, ideas, processes, methods, formulas, compositions, techniques, programs, software, designs, improvements and innovations or “know-how” related thereto (including all data and records pertaining thereto), whether or not patentable, copyrightable, registrable as a trademark, recorded in any medium or reduced to writing.
 
-“Intellectual Property Rights” means intellectual property rights and any and all improvements thereof, namely any rights direct or indirect, exclusive or not exclusive, proprietary or contractual over creations of the mind and/or any rights (or/and rights of expectation) which are protected under industrial property law, including namely, indicatively, literary and other works, and symbols, software, source codes, websites, databases, domain names, utility models, images, and designs, inventions (patents), registered trademarks, registered designs, applications for any of the foregoing, rights of expectation on trademarks or patents,  names (including trade and business names), unregistered trademarks, logos, know-how, trade secrets, copyrights (including copyright over software, hardware, processes or any other part of the business or products of the Company), rights in designs, rights under licenses and consents in relation to any such rights, rights of the same or similar effect or nature, together with all goodwill attaching or relating thereto, in any part of the world (whether or not capable of protection by registration.
+1.1.3.sec=“Intellectual Property Rights” means intellectual property rights and any and all improvements thereof, namely any rights direct or indirect, exclusive or not exclusive, proprietary or contractual over creations of the mind and/or any rights (or/and rights of expectation) which are protected under industrial property law, including namely, indicatively, literary and other works, and symbols, software, source codes, websites, databases, domain names, utility models, images, and designs, inventions (patents), registered trademarks, registered designs, applications for any of the foregoing, rights of expectation on trademarks or patents,  names (including trade and business names), unregistered trademarks, logos, know-how, trade secrets, copyrights (including copyright over software, hardware, processes or any other part of the business or products of the Company), rights in designs, rights under licenses and consents in relation to any such rights, rights of the same or similar effect or nature, together with all goodwill attaching or relating thereto, in any part of the world (whether or not capable of protection by registration.
 
-“Moral Rights” means any rights to claim authorship of an Invention to object to or prevent the modification of any Invention, or to withdraw from circulation or control the publication or distribution of any Invention, and any similar right, existing under judicial or statutory law of any country in the world, or under any treaty, regardless of whether or not such right is denominated or generally referred to as a “moral right”.
+1.1.4.sec=“Moral Rights” means any rights to claim authorship of an Invention to object to or prevent the modification of any Invention, or to withdraw from circulation or control the publication or distribution of any Invention, and any similar right, existing under judicial or statutory law of any country in the world, or under any treaty, regardless of whether or not such right is denominated or generally referred to as a “moral right”.
 
 1.2.sec=The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.
 
@@ -46,7 +45,9 @@ NOW, THEREFORE, in consideration of covenants and agreements contained herein, t
 
 2.5.sec=Contractor shall retain the right to perform services for others during the term of this Agreement.
 
-2.6.sec=[Contractor will determine the method, details, and means of performing the Services. The Company shall have no right to and shall not control the manner or determine the method of accomplishment of the Services, though it may define the Services to be performed. Such Services may be amended, from time-to-time, by the Parties by written agreement, signed by Contractor and the Company.]
+LawNote=Optional
+
+2.6.sec=Contractor will determine the method, details, and means of performing the Services. The Company shall have no right to and shall not control the manner or determine the method of accomplishment of the Services, though it may define the Services to be performed. Such Services may be amended, from time-to-time, by the Parties by written agreement, signed by Contractor and the Company.
 
 2.7.sec=Contractor will, in the performance of Contractor’s duties hereunder, comply with all policies and procedures of the Company that are applicable to independent contractors and consultants, as communicated to Contractor from time to time. The Company reserves the right to change such policies and procedures on a prospective basis, at any time, effective upon reasonable notice to Contractor.
 
@@ -132,13 +133,15 @@ NOW, THEREFORE, in consideration of covenants and agreements contained herein, t
 
 9.Ti=Termination; Survival
 
-9.1.sec=Termination.
+9.1.Ti=Termination.
 
 9.1.1.sec=This Agreement may be terminated by either Party immediately upon written notice to the other Party for important cause, including, without limitation, upon breach by the other Party of any material term or condition of this Agreement and, where such breach is remediable, such breach having remained uncorrected for fifteen (15) days following receipt of written notice of such breach.
 
 9.1.2.sec=Each Party may terminate this Agreement at any time, without cause, upon [] ([]) days’ prior notification to the other Party.
 
-9.2.sec=Surviving Obligations. Upon termination of this Agreement for any reason all rights and duties of the Parties toward each other shall cease, except that:
+9.2.Ti=Surviving Obligations. 
+
+9.2.0.sec=Upon termination of this Agreement for any reason all rights and duties of the Parties toward each other shall cease, except that:
 
 9.2.1.sec=The Company shall be obliged to pay, within thirty (30) days of receipt of Contractor’s invoice, all amounts owing to Contractor for unpaid Services through the termination date; and
 
@@ -146,35 +149,37 @@ NOW, THEREFORE, in consideration of covenants and agreements contained herein, t
 
 10.Ti=General Provisions
 
-10.1.sec=Entire Agreement. 
+10.1.Ti=Entire Agreement. 
 
-10.1.1.sec=This Agreement constitutes the entire agreement and understanding between the Parties, and supersedes and preempts any prior representations, understandings or other agreements of the Parties, written or oral written or oral, which may have related to the subject matter hereof in any way.
+10.1.sec=This Agreement constitutes the entire agreement and understanding between the Parties, and supersedes and preempts any prior representations, understandings or other agreements of the Parties, written or oral written or oral, which may have related to the subject matter hereof in any way.
 
-10.2.sec=Severability. If any provision of this Agreement is invalid or unenforceable, the invalidity or unenforceability shall not affect any other provision hereof and this Agreement shall be construed in all respects as if the invalid or unenforceable provision had been omitted.
+10.2.Ti=Severability. 
 
-10.3.sec=Counterparts. 
+10.2.sec=If any provision of this Agreement is invalid or unenforceable, the invalidity or unenforceability shall not affect any other provision hereof and this Agreement shall be construed in all respects as if the invalid or unenforceable provision had been omitted.
 
-10.3.1.sec=This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which, taken together, shall constitute one and the same agreement.
+10.3.Ti=Counterparts. 
 
-10.4.sec=Successors and Assigns. 
+10.3.sec=This Agreement may be executed in counterparts, each of which shall be deemed to be an original, but all of which, taken together, shall constitute one and the same agreement.
 
-10.4.1.sec=This Agreement shall bind and inure to the benefit of and be enforceable by Contractor, the Company and their respective successors and assigns; provided that the rights and obligations of Contractor under this Agreement are personal to Contractor and may not be assigned, novated, subcontracted or transferred without the prior written consent of the Company.
+10.4.Ti=Successors and Assigns. 
 
-10.5.sec=Amendments and Waivers. 
+10.4.sec=This Agreement shall bind and inure to the benefit of and be enforceable by Contractor, the Company and their respective successors and assigns; provided that the rights and obligations of Contractor under this Agreement are personal to Contractor and may not be assigned, novated, subcontracted or transferred without the prior written consent of the Company.
 
-10.5.1.sec=This Agreement may only be amended in a writing signed by Contractor (or a duly authorized officer thereof) and a duly authorized officer of the Company. No waiver of any term or provision of this Agreement will be effective unless made in writing. Any written amendment or waiver will be effective only in the instance given and then only with respect to the specific term or provision (or portion thereof) of this Agreement to which it expressly relates, and will not be deemed or construed to constitute a waiver of any other term or provision (or portion thereof) waived in any other instance.
+10.5.Ti=Amendments and Waivers. 
 
-10.6.sec=No Waiver of Rights. 
+10.5.sec=This Agreement may only be amended in a writing signed by Contractor (or a duly authorized officer thereof) and a duly authorized officer of the Company. No waiver of any term or provision of this Agreement will be effective unless made in writing. Any written amendment or waiver will be effective only in the instance given and then only with respect to the specific term or provision (or portion thereof) of this Agreement to which it expressly relates, and will not be deemed or construed to constitute a waiver of any other term or provision (or portion thereof) waived in any other instance.
 
-10.6.1.sec=A failure or delay in exercising any right, power or privilege in respect of this Agreement will not be presumed to operate as a waiver, and a single or partial exercise of any right, power or privilege will not be presumed to preclude any subsequent or further exercise, of that right, power or privilege or the exercise of any other right, power or privilege.
+10.6.Ti=No Waiver of Rights. 
 
-10.7.sec=Notices. 
+10.6.sec=A failure or delay in exercising any right, power or privilege in respect of this Agreement will not be presumed to operate as a waiver, and a single or partial exercise of any right, power or privilege will not be presumed to preclude any subsequent or further exercise, of that right, power or privilege or the exercise of any other right, power or privilege.
 
-10.7.1.sec=All notices permitted or required under this Agreement shall be in writing and shall be delivered in person or mailed by registered or certified mail, postage prepaid, to the address of the Party specified in this Agreement or such other address as either Party may specify in writing. Such notice shall be deemed to have been given upon receipt.
+10.7.Ti=Notices. 
 
-10.8.sec=Governing Law; Dispute Resolution.
+10.7.sec=All notices permitted or required under this Agreement shall be in writing and shall be delivered in person or mailed by registered or certified mail, postage prepaid, to the address of the Party specified in this Agreement or such other address as either Party may specify in writing. Such notice shall be deemed to have been given upon receipt.
 
-10.8.1.sec= This Agreement shall be governed by and construed in accordance with the laws of Greece. Any disputes arising hereunder, including disputes arising from or related to a termination of this Agreement, and any disputes or claims arising from the subject matter of this Agreement shall be subject to the exclusive jurisdiction of the competent courts of Athens, Greece.
+10.8.Ti=Governing Law; Dispute Resolution.
+
+10.8.sec=This Agreement shall be governed by and construed in accordance with the laws of Greece. Any disputes arising hereunder, including disputes arising from or related to a termination of this Agreement, and any disputes or claims arising from the subject matter of this Agreement shall be subject to the exclusive jurisdiction of the competent courts of Athens, Greece.
 
 IN WITNESS WHEREOF, the Parties have executed this Agreement in two (2) originals, one being delivered to each Party, as of the date first written above.
 
